@@ -1,0 +1,4 @@
+dart run examples/before_mixin.dart
+[GradeBookBefore] 及格人数: 1
+[GradeBook] 及格人数: 1
+exit_code=0

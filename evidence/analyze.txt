@@ -1,0 +1,4 @@
+dart analyze
+Analyzing lecture3...
+No issues found!
+exit_code=0

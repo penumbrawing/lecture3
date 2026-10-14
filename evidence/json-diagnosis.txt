@@ -1,0 +1,5 @@
+dart run examples/diagnose_json.dart
+诊断实验：JSON score 为字符串时转换失败。
+type 'String' is not a subtype of type 'num' in type cast
+修正为数值后: 92.0
+exit_code=0

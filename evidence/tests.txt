@@ -1,0 +1,17 @@
+dart test --reporter expanded
+00:00 +0: loading test\lecture3_test.dart
+00:00 +0: test\lecture3_test.dart: Student validation default score and passing boundary
+00:00 +1: test\lecture3_test.dart: Student validation invalid update throws and preserves previous score
+00:00 +2: test\lecture3_test.dart: Student validation constructor also rejects invalid scores
+00:00 +3: test\lecture3_test.dart: Student validation fromJson accepts integer and decimal numbers
+00:00 +4: test\lecture3_test.dart: Student validation fromJson shares score validation
+00:00 +5: test\lecture3_test.dart: Student validation fromJson rejects missing or incorrectly typed fields
+00:00 +6: test\lecture3_test.dart: GradeBook statistics normal data has independently calculated results
+00:00 +7: test\lecture3_test.dart: GradeBook statistics five-method chain sums top three passing scores
+00:00 +8: test\lecture3_test.dart: GradeBook statistics empty book has no average or highest student
+00:00 +9: test\lecture3_test.dart: GradeBook statistics grade boundaries put each student in exactly one group
+00:00 +10: test\lecture3_test.dart: GradeBook statistics ties keep first highest student
+00:00 +11: test\lecture3_test.dart: GradeBook statistics list membership is protected but student updates are reflected
+00:00 +12: test\lecture3_test.dart: GradeBook statistics mixin logs with runtime type
+00:00 +13: All tests passed!
+exit_code=0

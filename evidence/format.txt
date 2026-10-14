@@ -1,0 +1,6 @@
+dart format lib bin test examples
+Formatted lib\gradebook.dart
+Formatted bin\lecture3.dart
+Formatted test\lecture3_test.dart
+Formatted 8 files (3 changed) in 0.04 seconds.
+exit_code=0
